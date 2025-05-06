@@ -51,7 +51,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-blue-600 hover:bg-blue-700"
-              onClick={() => window.open('https://t.me/Officialbluepay')}
+              onClick={() => window.open('https://t.me/bluepay_service')}
             >
               Open Telegram
             </Button>
